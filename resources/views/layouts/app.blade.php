@@ -17,7 +17,7 @@
         <a href="{{ route('category') }}" class="p-3">Category</a>
       </li>
       <li>
-        <a href="#posts" class="p-3">Post</a>
+        <a href="{{ route('posts') }}" class="p-3">Post</a>
       </li>
     </ul>
 
