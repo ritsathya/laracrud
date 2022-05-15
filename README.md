@@ -26,7 +26,7 @@ Next, you need to clone this repo and change into the project directory:
 ```shell
 # Clone the project into local machine
 
-git clone ...
+git clone https://github.com/ritsathya/laracrud.git
 
 # Change into project directory
 
