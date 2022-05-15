@@ -11,6 +11,22 @@
 
 Laracrud is a simple application that allows users to perform crud (create, read, update and delete) operation on Category and Post.
 
+## Previews
+
+### Category page
+
+![](/home/sathya/Projects/laravel/laracrud/public/img/category_page.png)
+
+### Post page
+
+![](/home/sathya/Projects/laravel/laracrud/public/img/post_page.png)
+
+### View detail page
+
+![](/home/sathya/Projects/laravel/laracrud/public/img/edit_post_page.png)
+
+
+
 ## Getting Started
 
 First you need to have Docker Compose installed on your system.
@@ -54,8 +70,6 @@ cp .env.example .env
 # configuration
 code .env
 ```
-
-
 
 To start the project, run the sail as the following:
 
