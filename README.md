@@ -15,15 +15,15 @@ Laracrud is a simple application that allows users to perform crud (create, read
 
 ### Category page
 
-![](/home/sathya/Projects/laravel/laracrud/public/img/category_page.png)
+![](/public/img/category_page.png)
 
 ### Post page
 
-![](/home/sathya/Projects/laravel/laracrud/public/img/post_page.png)
+![](/public/img/post_page.png)
 
 ### View detail page
 
-![](/home/sathya/Projects/laravel/laracrud/public/img/edit_post_page.png)
+![](/public/img/edit_post_page.png)
 
 
 
