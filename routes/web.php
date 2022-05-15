@@ -26,6 +26,10 @@ Route::get('/posts', function () {
 });
 
 Route::get('/category', [CategoryController::class, 'index'])->name('category');
+Route::post('/category', [CategoryController::class, 'store']);
+Route::get('/category/{category}/edit', [CategoryController::class, 'edit']);
+Route::put('/category/{category}', [CategoryController::class, 'update']);
+Route::delete('/category/{category}', [CategoryController::class, 'destroy']);
 
 Route::get('/register', [RegisterController::class, 'index'])->name('register');
 Route::post('/register', [RegisterController::class, 'store']);
